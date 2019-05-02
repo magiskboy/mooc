@@ -28,6 +28,7 @@
   * [Design Patterns](https://www.coursera.org/learn/design-patterns)
   * [Software Architecture](https://www.coursera.org/learn/software-architecture)
   * [Service-Oriented Architecture](https://www.coursera.org/learn/service-oriented-architecture)
+* [Software Security](https://www.coursera.org/learn/software-security) 6 weeks(3-5h/week)
 * [Database Management Essentials](https://www.coursera.org/learn/database-management) 7 weeks(4-6h/week)
 * [Agile Development](https://www.coursera.org/specializations/agile-development) 6 months(4h/week)
   * [Agile Meets Design Thinking](https://www.coursera.org/learn/uva-darden-getting-started-agile?specialization=agile-development)
