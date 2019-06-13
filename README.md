@@ -112,3 +112,36 @@
   * [Machine Learning With Big Data](https://www.coursera.org/learn/big-data-machine-learning?specialization=big-data)
   * [Graph Analytics for Big Data](https://www.coursera.org/learn/big-data-graph-analytics)
   * [Big Data - Capstone Project](https://www.coursera.org/learn/big-data-project)
+
+### 5. Google Cloud
+* [Architecting with Google Cloud Platform Specialization](https://www.coursera.org/specializations/gcp-architecture)
+  * [Google Cloud Platform Fundamentals: Core Infrastructure](https://www.coursera.org/learn/gcp-fundamentals?specialization=gcp-architecture)
+  * [Essential Cloud Infrastructure: Foundation](https://www.coursera.org/learn/gcp-infrastructure-foundation?specialization=gcp-architecture)
+  * [Essential Cloud Infrastructure: Core Services](https://www.coursera.org/learn/gcp-infrastructure-core-services?specialization=gcp-architecture)
+  * [Elastic Cloud Infrastructure: Scaling and Automation](https://www.coursera.org/learn/gcp-infrastructure-scaling-automation?specialization=gcp-architecture).
+  * [Elastic Cloud Infrastructure: Containers and Services](https://www.coursera.org/learn/gcp-infrastructure-containers-services)
+  * [Reliable Cloud Infrastructure: Design and Process](https://www.coursera.org/learn/cloud-infrastructure-design-process)
+
+* [Networking in Google Cloud Platform Specialization](https://www.coursera.org/specializations/networking-google-cloud-platform)
+  * [Google Cloud Platform Fundamentals: Core Infrastructure](https://www.coursera.org/learn/gcp-fundamentals)
+  * [Networking in GCP: Defining and Implementing Networks](https://www.coursera.org/learn/networking-gcp-defining-implementing-networks)
+  * [Networking in GCP: Hybrid Connectivity and Network Management](https://www.coursera.org/learn/networking-gcp-hybrid-connectivity-network-management)
+  
+* [Security in Google Cloud Platform Specialization](https://www.coursera.org/specializations/security-google-cloud-platform)
+  * [Google Cloud Platform Fundamentals: Core Infrastructure](https://www.coursera.org/learn/gcp-fundamentals)
+  * [Managing Security in Google Cloud Platform](https://www.coursera.org/learn/managing-security-in-google-cloud-platform)
+  * [Mitigating Security Vulnerabilities on Google Cloud Platform](https://www.coursera.org/learn/mitigating-security-vulnerabilites-gcp)
+
+* [Machine Learning with TensorFlow on Google Cloud Platform Specialization](https://www.coursera.org/specializations/machine-learning-tensorflow-gcp)
+  * [How Google does Machine Learning](https://www.coursera.org/learn/google-machine-learning?specialization=machine-learning-tensorflow-gcp)
+  * [Launching into Machine Learning](https://www.coursera.org/learn/launching-machine-learning?specialization=machine-learning-tensorflow-gcp)
+  * [Intro to TensorFlow](https://www.coursera.org/learn/intro-tensorflow?specialization=machine-learning-tensorflow-gcp)
+  * [Feature Engineering](https://www.coursera.org/learn/feature-engineering?specialization=machine-learning-tensorflow-gcp)
+  * [Art and Science of Machine Learning](https://www.coursera.org/learn/art-science-ml)
+
+* [Advanced Machine Learning with TensorFlow on Google Cloud Platform Specialization](https://www.coursera.org/specializations/advanced-machine-learning-tensorflow-gcp)
+  * [End-to-End Machine Learning with TensorFlow on GCP](https://www.coursera.org/learn/end-to-end-ml-tensorflow-gcp?specialization=advanced-machine-learning-tensorflow-gcp)
+  * [Production Machine Learning Systems](https://www.coursera.org/learn/gcp-production-ml-systems?specialization=advanced-machine-learning-tensorflow-gcp)
+  * [Image Understanding with TensorFlow on GCP](https://www.coursera.org/learn/image-understanding-tensorflow-gcp?specialization=advanced-machine-learning-tensorflow-gcp)
+  * [Sequence Models for Time Series and Natural Language Processing](https://www.coursera.org/learn/sequence-models-tensorflow-gcp?specialization=advanced-machine-learning-tensorflow-gcp)
+  * [Recommendation Systems with TensorFlow on GCP](https://www.coursera.org/learn/recommendation-models-gcp)
