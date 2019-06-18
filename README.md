@@ -41,12 +41,13 @@
   * [Business Intelligence Concepts, Tools, and Applications](https://www.coursera.org/learn/business-intelligence-tools?specialization=data-warehousing)
   * [Design and Build a Data Warehouse for Business Intelligence Implementation](https://www.coursera.org/learn/data-warehouse-bi-building)
 
-* [Agile Development](https://www.coursera.org/specializations/agile-development) 6 months(4h/week), provide by University of Virginia
-  * [Agile Meets Design Thinking](https://www.coursera.org/learn/uva-darden-getting-started-agile?specialization=agile-development)
-  * [Running Product Design Sprints](https://www.coursera.org/learn/uva-darden-running-design-sprints?specialization=agile-development)
-  * [Managing an Agile Team](https://www.coursera.org/learn/uva-darden-agile-team-management?specialization=agile-development)
-  * [Testing with Agile](https://www.coursera.org/learn/uva-darden-agile-testing?specialization=agile-development)
-  * [Agile Development in Practice (Project-centered Course)](https://www.coursera.org/learn/uva-darden-agile-development-capstone)
+* [Software Product Management Specialization](https://www.coursera.org/specializations/product-management) 4 months (7h/week) provide by University of Alberta
+  * [Introduction to Software Product Management](https://www.coursera.org/learn/introduction-to-software-product-management?specialization=product-management)
+  * [Software Processes and Agile Practices](https://www.coursera.org/learn/software-processes-and-agile-practices?specialization=product-management)
+  * [Client Needs and Software Requirements](https://www.coursera.org/learn/client-needs-and-software-requirements?specialization=product-management)
+  * [Agile Planning for Software Products](https://www.coursera.org/learn/agile-planning-for-software-products?specialization=product-management)
+  * [Reviews & Metrics for Software Improvements](https://www.coursera.org/learn/reviews-and-metrics-for-software-improvements)
+  * [Software Product Management Capstone](https://www.coursera.org/learn/software-product-management-capstone)
 
 * [Cybersecurity Specialization](https://www.coursera.org/specializations/cyber-security), 5 months, provide by University of Maryland, College Park
   * [Usable Security](https://www.coursera.org/learn/usable-security?specialization=cyber-security)
