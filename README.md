@@ -17,12 +17,7 @@
 
 * [Computer Architecture](https://www.coursera.org/learn/comparch?) 11 weeks, provide by Princeton University
 
-* [Networking Basics](https://www.coursera.org/specializations/networking-basics) 2 months(9h/week), provide by Cisco
-  * [Internet Connection: How to Get Online?](https://www.coursera.org/learn/internet-connection-how-to-get-online?specialization=networking-basics)
-  * [Network Protocols and Architecture](https://www.coursera.org/learn/network-protocols-architecture?specialization=networking-basics)
-  * [Data Communications and Network Services](https://www.coursera.org/learn/data-communication-network-services?specialization=networking-basics)
-  * [Home Networking Basics](https://www.coursera.org/learn/home-networking-basics?specialization=networking-basics)
-  * [Introduction to Cisco Networking](https://www.coursera.org/learn/cisco-networking-introduction)
+* [Networking Basics]([https://www.coursera.org/specializations/networking-basics](https://skillsforall.com/course/networking-basics?courseLang=en-US)) 2 months
 
 
 ### 2. Software Foundation
