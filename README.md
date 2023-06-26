@@ -17,7 +17,7 @@
 
 * [Computer Architecture](https://www.coursera.org/learn/comparch?) 11 weeks, provide by Princeton University
 
-* [Networking Basics]([https://www.coursera.org/specializations/networking-basics](https://skillsforall.com/course/networking-basics?courseLang=en-US)) 2 months
+* [Networking Basics](https://www.coursera.org/specializations/networking-basics](https://skillsforall.com/course/networking-basics?courseLang=en-US)) 2 months
 
 
 ### 2. Software Foundation
